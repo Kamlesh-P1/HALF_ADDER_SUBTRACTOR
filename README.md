@@ -39,11 +39,9 @@ half adder:
 
 ![WhatsApp Image 2025-11-19 at 10 42 11_1947c1a6](https://github.com/user-attachments/assets/c6c7cd4a-59a2-4a28-aba6-50678c7d56c5)
 
-
 half subractor:
 
 ![WhatsApp Image 2025-11-19 at 10 42 05_1633cbbc](https://github.com/user-attachments/assets/eb4c53c2-1525-4102-beff-8ee798de9a6c)
-
 
 **Procedure**
 
@@ -71,7 +69,6 @@ endmodule
 ~~~
 
 half subractor:
-
 ~~~
 module halfsub(a,b,diff,bo);
 input a,b;
@@ -91,7 +88,6 @@ half subractor:
 
 <img width="1003" height="526" alt="ex 4 1" src="https://github.com/user-attachments/assets/e90170d6-633d-4572-aea8-8dee4ae8b5c8" />
 
-
 **Output/TIMING Waveform**
 
 half adder:
@@ -101,7 +97,6 @@ half adder:
 half subractor:
 
 <img width="1920" height="1131" alt="ex4 1" src="https://github.com/user-attachments/assets/eb9a33de-6861-428c-87ca-5f0682b0dfec" />
-
 
 **Result:**
 
