@@ -84,18 +84,22 @@ endmodule
 **RTL Schematic**
 
 half adder:
+
 <img width="796" height="496" alt="ex 3 1" src="https://github.com/user-attachments/assets/fb7db6db-f07a-4f4d-9125-b507b31d728d" />
 
 half subractor:
+
 <img width="1003" height="526" alt="ex 4 1" src="https://github.com/user-attachments/assets/e90170d6-633d-4572-aea8-8dee4ae8b5c8" />
 
 
 **Output/TIMING Waveform**
 
 half adder:
+
 <img width="1920" height="1119" alt="ex3 1" src="https://github.com/user-attachments/assets/bf1a214b-057f-465d-8643-2ecbf6795cdd" />
 
 half subractor:
+
 <img width="1920" height="1131" alt="ex4 1" src="https://github.com/user-attachments/assets/eb9a33de-6861-428c-87ca-5f0682b0dfec" />
 
 
