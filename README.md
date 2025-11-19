@@ -58,6 +58,7 @@ half subractor:
 
 **Program:**
 
+
 half adder:
 ~~~
 module halfadder(a,b,s,c);
